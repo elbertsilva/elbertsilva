@@ -47,7 +47,7 @@
 	</a>
 	&ensp;
 	<a href='https://www.react.org/'>
-		<img src='https://img.shields.io/badge/code-react-blue?logoWidth=30&labelColor=black&style=for-the-badge&logo=react' alt='React.js'>
+		<img src='https://img.shields.io/badge/CODE-REACT-blue' alt='React.js'>
 	</a>
 	&emsp;
 	<a href='https://www.php.net/'>
