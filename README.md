@@ -31,9 +31,7 @@
 	<a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'>
 		<img src='https://img.shields.io/badge/code-javascript-F7DF1E?logo=javascript&logoWidth=30&labelColor=black&style=for-the-badge' alt='JavaScript'>
 	</a>
-	&emsp;
-	<a href='https://plugins.jquery.com/blueimp-bootstrap-image-gallery/'>
-		<img src='https://plugins.jquery.com/blueimp-bootstrap-image-gallery/3.1.0/' alt='Jquery'>
+	
 	</a>
 	&emsp;
 	<a href='https://developer.mozilla.org/en-US/docs/Web/HTML'>
