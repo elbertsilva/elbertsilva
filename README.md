@@ -51,7 +51,7 @@
 	</a>
 	&emsp;
 	<a href='https://www.php.net/'>
-		<img src='https://img.shields.io/badge/code-php-777BB4?logoWidth=30&labelColor=black&style=for-the-badge&logo=php' alt='PHP'>
+		<img src='https://img.shields.io/badge/CODE-PHP-lightgrey' alt='PHP'>
 	</a>
 	&emsp;
 	<a href='https://getbootstrap.com/'>
