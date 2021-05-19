@@ -39,7 +39,7 @@
 	</a>
 	&emsp;
 	<a href='https://developer.mozilla.org/en-US/docs/Web/HTML'>
-		<img src='https://img.shields.io/badge/code-html-E34F26?logo=html5&logoWidth=30&labelColor=black&style=for-the-badge' alt='HTML'>
+		<img src='https://img.shields.io/badge/CODE-HTML-red' alt='HTML'>
 	</a>
 	&emsp;
 	<a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
