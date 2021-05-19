@@ -14,7 +14,7 @@
 	</a>
 </div>
 	<p>
-	Mais em breve...
+	I m learning...
 	</p>
 
 
