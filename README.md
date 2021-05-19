@@ -55,7 +55,7 @@
 	</a>
 	&emsp;
 	<a href='https://getbootstrap.com/'>
-		<img src='https://img.shields.io/badge/tools-bootstrap-563D7C?logo=bootstrap&logoWidth=30&labelColor=black&style=for-the-badge' alt='Bootstrap'>
+		<img src='https://img.shields.io/badge/TOOLS-BOOTSTRAP-lightgrey' alt='Bootstrap'>
 	</a>
 	&emsp;
 	
