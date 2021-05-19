@@ -32,7 +32,7 @@
 		<img src='https://img.shields.io/badge/CODE-JAVASCRIPT-yellow' alt='JavaScript'>
 	</a>
 	&emsp;
-	<a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'>
+	<a href='https://jquery.com/'>
 		<img src='https://img.shields.io/badge/CODE-JQUERY-blue' alt='Jquery'>
 	</a>
 	&emsp;
