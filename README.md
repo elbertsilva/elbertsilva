@@ -9,7 +9,7 @@
 ## 💻 Developrment jr
 
 <div align='left' style="display: flex; justify-content: space-between;">
-	<a href='https://www.linkedin.com/in/felipe-augusto-gomes-246a5919b/'>
+	<a href='https://www.linkedin.com/in/elbert-eduardo-martins-da-silva-70344596/'>
 	<img src='https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin - Felipe Augusto'>
 	</a>
 </div>
