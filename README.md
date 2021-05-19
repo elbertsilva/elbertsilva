@@ -43,7 +43,7 @@
 	</a>
 	&emsp;
 	<a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
-		<img src='https://img.shields.io/badge/code-css-1572B6?logo=css3&logoWidth=30&labelColor=black&style=for-the-badge&logoColor=1572B6' alt='CSS'>
+		<img src='https://img.shields.io/badge/CODE-CSS-blue' alt='CSS'>
 	</a>
 	&ensp;
 	<a href='https://www.react.org/'>
