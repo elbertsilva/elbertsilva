@@ -6,7 +6,7 @@
 
 <br>
 
-## 💻 Developrment jr
+## 💻 Development jr
 
 <div align='left' style="display: flex; justify-content: space-between;">
 	<a href='https://www.linkedin.com/in/elbert-eduardo-martins-da-silva-70344596/'>
