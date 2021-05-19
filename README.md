@@ -25,7 +25,7 @@
 <div align='left' style="display: flex; justify-content: space-between;">
 	<!-- Programming Languages. -->
 	<a href='https://nodejs.org/en/'>
-		<img src='https://img.shields.io/badge/code-node.js-339933?logo=node.js&logoWidth=30&labelColor=black&style=for-the-badge' alt='Node.js'>
+		<img src='https://img.shields.io/badge/CODE-NODE-green' alt='Node.js'>
 	</a>
 	&emsp;
 	<a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'>
