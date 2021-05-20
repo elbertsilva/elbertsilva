@@ -15,8 +15,9 @@
 
 
 #	<p>
+	I m production engineer
 	I work at Conforce
-	I m currently working in html, css, php, javascript, jquery, react, mysql, sql server...
+	I am currently working with web development..
 #	</p>
 
 
