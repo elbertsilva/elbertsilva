@@ -1,4 +1,4 @@
-# 👋 Hello, i m Elbert Silva
+# Elbert Silva
 <div style='font-size:1.2em'>
 	Web Developer
 	
@@ -13,6 +13,8 @@
 	<img src='https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin - Felipe Augusto'>
 	</a>
 </div>
+
+# 👋 Hello, welcome my github...
 	<p>
 	I m learning...
 	</p>
