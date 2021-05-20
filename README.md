@@ -17,14 +17,14 @@
 # 👋 Hello, welcome my github...
 <hr>
 
-	<p>
+###	<p>
 	I m learning...
 	</p>
 
 
 <hr>
 
-## 🔧 Linguagens / Ferramentas / Frameworks
+## 🔧 Languages / Tools / Frameworks
 
 <div align='left' style="display: flex; justify-content: space-between;">
 	<!-- Programming Languages. -->
