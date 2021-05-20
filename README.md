@@ -14,7 +14,8 @@
 	</a>
 </div>
 
-<title> 👋 Hello, welcome my github... </title>
+# 👋 Hello, welcome my github...
+<hr>
 
 	<p>
 	I m learning...
