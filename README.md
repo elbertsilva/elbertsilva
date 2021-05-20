@@ -4,8 +4,6 @@
 	
 </div>
 
-<br>
-
 ## 💻  Developer Jr
 
 <div align='left' style="display: flex; justify-content: space-between;">
