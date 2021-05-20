@@ -14,14 +14,11 @@
 </div>
 
 
-<hr>
-
 #	<p>
+	I m currently working on Conforce
 	I m learning...
 #	</p>
 
-
-<hr>
 
 ## 🔧 Languages / Tools / Frameworks
 
