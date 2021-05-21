@@ -1,4 +1,4 @@
-# 👋 Hello, welcome my github...
+# 👋 Hello, welcome to my github...
 # Elbert Silva
 <div style='font-size:1.2em'>
 	Web Developer
@@ -14,9 +14,10 @@
 </div>
 
 #	<p>
-	I m production engineer
-	I work at Conforce
-	I am currently working with web development..
+	I am production engineer
+	I am currently working in the web development area
+	Always in search of new knowledge..
+	Team work...
 #	</p>
 
 
