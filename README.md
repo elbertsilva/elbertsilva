@@ -36,6 +36,11 @@
 	<a href='https://jquery.com/'>
 		<img src='https://img.shields.io/badge/CODE-JQUERY-yellow' alt='Jquery'>
 	</a>
+		&emsp;
+	<a href='https://www.react.org/'>
+		<img src='https://img.shields.io/badge/CODE-REACT-yellow' alt='React.js'>
+	</a>
+
 	&emsp;
 	</a>
 	&emsp;
@@ -47,10 +52,7 @@
 		<img src='https://img.shields.io/badge/CODE-CSS-blue' alt='CSS'>
 	</a>
 	&ensp;
-	<a href='https://www.react.org/'>
-		<img src='https://img.shields.io/badge/CODE-REACT-yellow' alt='React.js'>
-	</a>
-	&emsp;
+	
 	<a href='https://www.php.net/'>
 		<img src='https://img.shields.io/badge/CODE-PHP-lightgrey' alt='PHP'>
 	</a>
@@ -58,9 +60,11 @@
 	<a href='https://getbootstrap.com/'>
 		<img src='https://img.shields.io/badge/TOOLS-BOOTSTRAP-blue' alt='Bootstrap'>
 	</a>
+	&emsp;
 	<a href='https://www.mysql.com/'>
 		<img src='https://img.shields.io/badge/DB-MYSQL-green' alt='Mysql'>
 	</a>
+	&emsp;
 	<a href='https://docs.retool.com/docs?_keyword=&adgroupid=124837256555&utm_source=google&utm_medium=search&utm_campaign=13661658614&utm_term=&utm_content=529696908363&hsa_acc=7420316652&hsa_cam=13661658614&hsa_grp=124837256555&hsa_ad=529696908363&hsa_src=g&hsa_tgt=aud-1136462125836:dsa-1259571658314&hsa_kw=&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw7fuJBhBdEiwA2lLMYSNvGc4DIa6MTE_GE_UMK7gIxWwyQ-STx6N0R99NVGv0ETEky0LBdRoCJB0QAvD_BwE'>
 		<img src='https://img.shields.io/badge/DB-SQLSERVER-green' alt='SqlServer'>
 	</a>
