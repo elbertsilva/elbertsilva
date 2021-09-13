@@ -36,12 +36,9 @@
 	<a href='https://jquery.com/'>
 		<img src='https://img.shields.io/badge/CODE-JQUERY-yellow' alt='Jquery'>
 	</a>
-		&emsp;
+	&emsp;
 	<a href='https://www.react.org/'>
 		<img src='https://img.shields.io/badge/CODE-REACT-yellow' alt='React.js'>
-	</a>
-
-	&emsp;
 	</a>
 	&emsp;
 	<a href='https://developer.mozilla.org/en-US/docs/Web/HTML'>
@@ -52,7 +49,6 @@
 		<img src='https://img.shields.io/badge/CODE-CSS-blue' alt='CSS'>
 	</a>
 	&ensp;
-	
 	<a href='https://www.php.net/'>
 		<img src='https://img.shields.io/badge/CODE-PHP-lightgrey' alt='PHP'>
 	</a>
