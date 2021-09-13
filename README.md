@@ -21,7 +21,7 @@
 #	</p>
 
 
-## 🔧 Languages / Tools / Frameworks
+## 🔧 Languages / Tools / Frameworks / Database
 
 <div align='left' style="display: flex; justify-content: space-between;">
 	<!-- Programming Languages. -->
@@ -58,8 +58,8 @@
 	<a href='https://getbootstrap.com/'>
 		<img src='https://img.shields.io/badge/TOOLS-BOOTSTRAP-lightgrey' alt='Bootstrap'>
 	</a>
-	<a href='https://getbootstrap.com/'>
-		<img src='https://img.shields.io/badge/TOOLS-MYSQL-lightgrey' alt='Bootstrap'>
+	<a href='https://www.mysql.com/'>
+		<img src='https://img.shields.io/badge/DB-MYSQL-lightgrey' alt='Bootstrap'>
 	</a>
 	&emsp;
 	
