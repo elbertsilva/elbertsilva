@@ -10,8 +10,10 @@
 <div align='left' style="display: flex; justify-content: space-between;">
 	<a href='https://www.linkedin.com/in/elbert-eduardo-martins-da-silva-70344596/'>
 	<img src='https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin - Elbert Silva'>
-         [![Gmail Badge](https://img.shields.io/badge/-cassielrattes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cassielrattes@gmail.com)](mailto:cassielrattes@gmail.com)
-	</a>
+         </a>
+	<a href='https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox'>
+	<img src='https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white' alt='Gmail - Elbert Silva'>
+         </a>
 </div>
 
 #	<p>
