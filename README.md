@@ -10,10 +10,10 @@
 <div align='left' style="display: flex; justify-content: space-between;">
 	<a href='https://www.linkedin.com/in/elbert-eduardo-martins-da-silva-70344596/'>
 	<img src='https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin - Elbert Silva'>
-      [![Gmail Badge](https://img.shields.io/badge/-elberteduardomartins@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elberteduardomartins@gmail.com)](mailto:elberteduardomartins@gmail.com)
+     
 	</a>
 </div>
-
+ [![Gmail Badge](https://img.shields.io/badge/-elberteduardomartins@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elberteduardomartins@gmail.com)](mailto:elberteduardomartins@gmail.com)
 #	<p>
 	I am production engineer
 	I am currently working in the web development area
