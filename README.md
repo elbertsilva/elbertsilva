@@ -10,7 +10,7 @@
 <div align='left' style="display: flex; justify-content: space-between;">
 	<a href='https://www.linkedin.com/in/elbert-eduardo-martins-da-silva-70344596/'>
 	<img src='https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin - Elbert Silva'>
-       <img src='https://mail.google.com/mail/u/0/#inbox' alt='Gmail -Elbert Silva'>
+       <img src='https://mail.google.com/mail/u/0/#inbox' alt='Gmail' -Elbert Silva'>
 	</a>
 </div>
 
