@@ -12,7 +12,7 @@
 	<img src='https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin - Elbert Silva'>
          </a>
 	<a href='https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox'>
-	<img src='https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white' alt='Gmail - Elbert Silva'>
+	<img src='https://img.shields.io/badge/gmail--%238f2d07?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail - Elbert Silva'>
          </a>
 </div>
 
