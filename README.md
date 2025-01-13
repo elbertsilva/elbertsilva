@@ -44,6 +44,10 @@
 		<img src='https://img.shields.io/badge/CODE-PHP-lightgrey' alt='PHP'>
 	</a>
 	&emsp;
+	<a href='https://www.php.net/'>
+		<img src='https://img.shields.io/badge/CODE-Python-lightgrey' alt='Python'>
+	</a>
+	&emsp;
 	<a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
 		<img src='https://img.shields.io/badge/CODE-CSS-blue' alt='CSS'>
 	</a>
