@@ -1,7 +1,7 @@
 #  Hello, welcome to my github...
-# Elbert 
+# Elbert Silva
 <div style='font-size:1.2em'>
-	Web Developer
+	soft engineer
 	
 </div>
 
@@ -13,7 +13,8 @@
 
 #	<p>
 	I am production engineer
-	I am currently working in the web development area
+	I am currently working in the banking area
+ 	I am looking for freelance work for web development
 	Always in search of new knowledge..
 	Team work...
 #	</p>
@@ -36,7 +37,7 @@
 	</a>
 	&emsp;
 	<a href='https://www.react.org/'>
-		<img src='https://img.shields.io/badge/CODE-REACT-yellow' alt='React.js'>
+		<img src='https://img.shields.io/badge/CODE-REACT-yellow' alt='Topaz - tmz desarrollo - tzm opera'>
 	</a>
 	&emsp;
 	<a href='https://developer.mozilla.org/en-US/docs/Web/HTML'>
@@ -55,6 +56,9 @@
 		<img src='https://img.shields.io/badge/TOOLS-BOOTSTRAP-blue' alt='Bootstrap'>
 	</a>
 	&emsp;
+	<a href='https://www.mysql.com/'>
+		<img src='https://img.shields.io/badge/DB-MYSQL-green' alt='Oracle SQL Server'>
+	</a>
 	<a href='https://www.mysql.com/'>
 		<img src='https://img.shields.io/badge/DB-MYSQL-green' alt='Mysql'>
 	</a>
