@@ -32,10 +32,6 @@
 		<img src='https://img.shields.io/badge/CODE-JAVASCRIPT-yellow' alt='JavaScript'>
 	</a>
 	&emsp;
-	<a href='https://jquery.com/'>
-		<img src='https://img.shields.io/badge/CODE-JQUERY-yellow' alt='Jquery'>
-	</a>
-	&emsp;
 	<a href='https://www.react.org/'>
 		<img src='https://img.shields.io/badge/CODE-REACT-yellow' alt='Topaz - tmz desarrollo - tzm opera'>
 	</a>
@@ -59,6 +55,7 @@
 	<a href='https://www.mysql.com/'>
 		<img src='https://img.shields.io/badge/DB-MYSQL-green' alt='Oracle SQL Server'>
 	</a>
+	&emsp;
 	<a href='https://www.mysql.com/'>
 		<img src='https://img.shields.io/badge/DB-MYSQL-green' alt='Mysql'>
 	</a>
