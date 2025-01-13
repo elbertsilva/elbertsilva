@@ -33,7 +33,7 @@
 	</a>
 	&emsp;
 	<a href='https://www.react.org/'>
-		<img src='https://img.shields.io/badge/CODE-REACT-yellow' alt='Topaz - tmz desarrollo - tzm opera'>
+		<img src='https://img.shields.io/badge/CODE-Topaz-yellow' alt='Topaz'>
 	</a>
 	&emsp;
 	<a href='https://developer.mozilla.org/en-US/docs/Web/HTML'>
@@ -53,7 +53,7 @@
 	</a>
 	&emsp;
 	<a href='https://www.mysql.com/'>
-		<img src='https://img.shields.io/badge/DB-MYSQL-green' alt='Oracle SQL Server'>
+		<img src='https://img.shields.io/badge/DB-Oracle-green' alt='Oracle'>
 	</a>
 	&emsp;
 	<a href='https://www.mysql.com/'>
